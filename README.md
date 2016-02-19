@@ -1,4 +1,4 @@
-# 4iz268 - cvičení
+# 4iz278 - cvičení
 
 Podklady pro cvičení kurzu **4iz278 - Webové aplikace** na VŠE v Praze
 
